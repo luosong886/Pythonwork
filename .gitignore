@@ -1,0 +1,5 @@
+docs
+.vscode
+__pycache__
+exp01_data
+tmp
